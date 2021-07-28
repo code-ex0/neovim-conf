@@ -23,7 +23,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'jiangmiao/auto-pairs'
     
     " themes nvim
-    Plug 'morhetz/gruvbox'
+    Plug 'joshdick/onedark.vim'
 
     " Stable version of coc
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
